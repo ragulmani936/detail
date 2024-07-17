@@ -1,0 +1,1 @@
+@keyframes animateBackground{0%{background-color:#000dff}50%{background-color:#add8e6}to{background-color:#ff00ae}}.App{text-align:center;display:flex;justify-content:center;align-items:center;height:100vh;animation:animateBackground 5s infinite}
